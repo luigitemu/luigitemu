@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Tejada</h1>
 <h3 align="center">A passionate FullStack developer from Honduras</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **NestJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
